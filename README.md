@@ -1,7 +1,7 @@
 |name    |student code    |
 |--------|----------------|
-|matin abdoli    |401102101    |
-|amirhossein jafari  |123    |
+|Matin Abdoli    |401102101    |
+|Amirhossein Jafari  |401101557    |
 
 start of project:    1403/02/07
 
